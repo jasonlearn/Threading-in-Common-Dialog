@@ -1,0 +1,6 @@
+﻿  part3.cpp
+d:\school\fall 2016\comp - 3770 - windows programming\assignment4\a4\a4syncro\a4part3\part3.cpp(42): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+d:\school\fall 2016\comp - 3770 - windows programming\assignment4\a4\a4syncro\a4part3\part3.cpp(47): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+d:\school\fall 2016\comp - 3770 - windows programming\assignment4\a4\a4syncro\a4part3\part3.cpp(30): warning C4101: 'id': unreferenced local variable
+  A4part3.vcxproj -> D:\School\Fall 2016\COMP - 3770 - Windows Programming\Assignment4\A4\A4Syncro\Debug\A4part3.exe
+  A4part3.vcxproj -> D:\School\Fall 2016\COMP - 3770 - Windows Programming\Assignment4\A4\A4Syncro\Debug\A4part3.pdb (Full PDB)

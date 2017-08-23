@@ -1,0 +1,5 @@
+﻿  sync.cpp
+d:\school\fall 2016\comp - 3770 - windows programming\assignment4\a4\a4syncro\a4syncro\sync.cpp(123): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+d:\school\fall 2016\comp - 3770 - windows programming\assignment4\a4\a4syncro\a4syncro\sync.cpp(130): warning C4302: 'type cast': truncation from 'LPWSTR' to 'WORD'
+  A4Syncro.vcxproj -> D:\School\Fall 2016\COMP - 3770 - Windows Programming\Assignment4\A4\A4Syncro\Debug\A4Syncro.exe
+  A4Syncro.vcxproj -> D:\School\Fall 2016\COMP - 3770 - Windows Programming\Assignment4\A4\A4Syncro\Debug\A4Syncro.pdb (Full PDB)
